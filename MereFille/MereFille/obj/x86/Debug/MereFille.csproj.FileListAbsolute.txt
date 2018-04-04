@@ -1,0 +1,27 @@
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.FFille.resources
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.FMere.resources
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.Properties.Resources.resources
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\bin\Debug\MereFille.exe
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\bin\Debug\MereFille.pdb
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.exe
+c:\users\adminsio\documents\visual studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.pdb
+C:\Users\adminSio\Documents\Visual Studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.csprojResolveAssemblyReference.cache
+C:\Users\adminSio\Documents\Visual Studio 2010\Projects\MereFille\MereFille\obj\x86\Debug\MereFille.csproj.GenerateResource.Cache
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.exe
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.pdb
+E:\MereFille\MereFille\bin\Debug\MereFille.exe
+E:\MereFille\MereFille\bin\Debug\MereFille.pdb
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.csprojResolveAssemblyReference.cache
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.FFille.resources
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.FMere.resources
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.Properties.Resources.resources
+E:\MereFille\MereFille\obj\x86\Debug\MereFille.csproj.GenerateResource.Cache
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.exe
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.pdb
+U:\PPE 2eme annee\MereFille\MereFille\bin\Debug\MereFille.exe
+U:\PPE 2eme annee\MereFille\MereFille\bin\Debug\MereFille.pdb
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.csprojResolveAssemblyReference.cache
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.FFille.resources
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.FMere.resources
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.Properties.Resources.resources
+U:\PPE 2eme annee\MereFille\MereFille\obj\x86\Debug\MereFille.csproj.GenerateResource.Cache
